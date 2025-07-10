@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey🙌, Shruti Purusothaman here🤩
 
-<!--
-**Shrutipurusothaman/Shrutipurusothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,currently pursuing my master's degree in the field of computer science from PSGR Krishnammal College for Women.I am an enthusiast who engages in solving real-world problems and a person who is neither a fast nor slow learner but a steady learner looking out for useful outcomes.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎ABOUT ME
+- 🔭 I’m currently working on ... Html, CSS, Javascript, PHP, MYSQL
+  
+- 🌱 I’m currently learning ... React, Node.js, Python(Django)
+  
+- 📫 How to reach me : shrutikishore04@gmail.com
+  
+- ⚡ Fun fact : A smart person said that "You'll never get a second chance to make the first impression" -- "It's Me😎✌️-- " Did you get fun or fun"FACT"?
+
+
+
+## 🔍Technologies & Tools
+
+    HTML | CSS | JAVASCRIPT | REACT | PHP | MYSQL | FIGMA | ANGULAR | NOTEPAD++ | NOTEPAD++ | PYTHON | DJANGO
+   
+
+   
