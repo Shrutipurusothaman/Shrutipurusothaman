@@ -15,14 +15,16 @@ Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,c
 
 
 ## 🔍Technologies & Tools
-  ![HTML](https://img.shields.io/badge/HTML-orange)
-  ![CSS](https://img.shields.io/badge/CSS-blue)
-  ![Javascript](https://img.shields.io/badge/Javascript-yellow)
-  ![React](https://img.shields.io/badge/React-blue)
-  ![Node.js](https://img.shields.io/badge/node.js-green)
-  ![PHP](https://img.shields.io/badge/PHP-%23FFD700)
-  ![MySql](https://img.shields.io/badge/MYSql-darkblue)
-  ![Python](https://img.shields.io/badge/Python-yellow)
+  ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+  ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS)
+  ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript)
+  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23FFD700?style=for-the-badge&logo=PHP)
+  ![MySql](https://img.shields.io/badge/MYSql-grey?style=for-the-badge&logo=mysql)
+  ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+
 
 
 
