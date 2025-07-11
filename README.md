@@ -23,6 +23,12 @@ Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,c
   ![PHP](https://img.shields.io/badge/PHP-%23FFD700?style=for-the-badge&logo=PHP)
   ![MySql](https://img.shields.io/badge/MYSql-grey?style=for-the-badge&logo=mysql)
   ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+  ![VS code](https://img.shields.io/badge/Vscode-blue?style=for-the-badge)
+  ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=orange)
+  ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-white?style=for-the-badge&logo=notepad%2B%2B&logoColor=white_green)
+
+
+
 
 
 
