@@ -35,7 +35,7 @@ Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,c
 
 ## 🤝Connect With Me!!
 
-- 🌐Socials :[!LinkedIn(https://img.shields.io/badge/LinkedIn?style=social&logo=LinkedIn&link=www.linkedin.com%2Fin%2Fshruti-purusothaman)](www.linkedin.com/in/shruti-purusothaman)
+- 🌐Socials :![LinkedIn](https://img.shields.io/badge/LinkedIn?style=social&logo=LinkedIn&link=www.linkedin.com%2Fin%2Fshruti-purusothaman)
 
    
 
