@@ -15,8 +15,10 @@ Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,c
 
 
 ## 🔍Technologies & Tools
+  ![HTML](https://img.shields.io/badge/HTML-orange)
 
-    HTML | CSS | JAVASCRIPT | REACT | PHP | MYSQL | FIGMA | ANGULAR | NOTEPAD++ | NOTEPAD++ | PYTHON | DJANGO
+
+   
    
 
    
