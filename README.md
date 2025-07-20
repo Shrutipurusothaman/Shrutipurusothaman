@@ -1,4 +1,4 @@
-# Hey🙌, Shruti Purusothaman here🤩
+## Hey🙌, Shruti Purusothaman here🤩
 
 Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,currently pursuing my master's degree in the field of computer science from PSGR Krishnammal College for Women.I am an enthusiast who engages in solving real-world problems and a person who is neither a fast nor slow learner but a steady learner looking out for useful outcomes.
 
