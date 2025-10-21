@@ -6,7 +6,7 @@ Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,c
 ## 😎About ME !
 - 🔭 I’m currently working on ... Html, CSS, Javascript
   
-- 🌱 I’m currently learning ... React, Node.js, Python(Django)
+- 🌱 I’m currently learning ... React, Node.js
   
 - 📫 Email : shrutikishore04@gmail.com
   
