@@ -20,8 +20,6 @@ Welcome to my Github profile! Myself a dynamic and aspiring frontend developer,c
   ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript)
   ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%23FFD700?style=for-the-badge&logo=PHP) 
-  ![MySql](https://img.shields.io/badge/MYSql-grey?style=for-the-badge&logo=mysql)
   ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
   ![VS code](https://img.shields.io/badge/Vscode-blue?style=for-the-badge)
   ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=orange)
